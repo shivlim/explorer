@@ -1,0 +1,16 @@
+{
+    "chain_name": "pylon",
+    "api": ["http://147.135.162.132:1317"],
+    "sdk_version": "0.44.3",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "pylo",
+    "logo": "https://pbs.twimg.com/profile_images/1382282296284352512/Ud71szMv_400x400.png",
+    "assets": [{
+        "base": "upylon",
+        "symbol": "PYLON",
+        "exponent": "6",
+        "coingecko_id": "pylon",
+        "logo": "https://pbs.twimg.com/profile_images/1382282296284352512/Ud71szMv_400x400.png"
+    }]
+}

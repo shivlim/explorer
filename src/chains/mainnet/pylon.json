@@ -1,6 +1,6 @@
 {
     "chain_name": "pylon",
-    "api": ["http://147.135.162.132:1317"],
+    "api": ["http://147.135.162.132"],
     "sdk_version": "0.44.3",
     "coin_type": "118",
     "min_tx_fee": "800",
